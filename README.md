@@ -1,2 +1,2 @@
 # AriaziixDiscordManager
-Simple JS bot to Manager my discord server 
+Simple JS bot to Manage my discord server 
